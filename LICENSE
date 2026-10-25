@@ -1,0 +1,59 @@
+SENTINELBASELINE ATTRIBUTION-REQUIRED LICENSE
+Version 1.0 — 25 October 2026
+
+Copyright (c) 2026 Hussain Raza Naqvi
+
+IMPORTANT: This is a custom license drafted to express the author's attribution requirements. It is not a standard OSI-approved open-source license. If you need broad compatibility with open-source ecosystems or commercial procurement policies, obtain legal advice and consider a recognized license.
+
+1. Definitions
+
+“Software” means the SentinelBaseline source code, scripts, documentation, and other materials distributed by the copyright holder under this license.
+
+“Use” includes downloading, running, copying, studying, or incorporating any portion of the Software.
+
+“Modified Version” means the Software or a substantial portion of it that has been changed, adapted, translated, or incorporated into a derivative work.
+
+“Attribution” means a clear, reasonably visible credit that identifies “SentinelBaseline” and “Hussain Raza Naqvi” as the original project and author, and includes a link to the canonical project repository where reasonably practicable.
+
+2. Permission
+
+Subject to compliance with every condition in this license, the copyright holder grants you a non-exclusive, worldwide, royalty-free, revocable only as provided by applicable law, permission to download, use, reproduce, share, redistribute, and modify the Software for lawful purposes.
+
+3. Mandatory attribution
+
+As a condition of the permission granted above, you must:
+
+a. Retain this license and all copyright, author, and attribution notices in copies of the Software.
+
+b. Provide Attribution when you download, use, share, redistribute, publish, or otherwise make the Software or a substantial portion of it available to another person.
+
+c. Include Attribution in the README, documentation, credits, or an equivalent prominent location for any shared or redistributed copy.
+
+d. For a Modified Version, state that the version has been modified, identify the changes where reasonably practicable, preserve the original Attribution, and avoid suggesting that the original author created, reviewed, or endorses those changes.
+
+e. For public articles, demonstrations, tutorials, or repositories that materially use or adapt the Software, provide a visible credit and a link to the canonical repository where reasonably practicable.
+
+Suggested attribution:
+“SentinelBaseline by Hussain Raza Naqvi — https://github.com/hussainraza110/SentinelBaseline”
+
+For private use where no public documentation or distribution exists, retain the license and copyright notices with the copy. If the Software is later shared, the visible attribution conditions above apply.
+
+4. No removal or misrepresentation
+
+You may not remove or obscure required notices, claim authorship of the original Software, or represent a Modified Version as an unmodified official release.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+6. Responsibility and lawful use
+
+You are responsible for ensuring that your use of the Software complies with applicable law, organizational policy, authorization boundaries, and third-party rights. This license does not grant permission to access systems or data without authorization.
+
+7. Termination
+
+If you fail to comply with the conditions of this license, the permissions granted to you terminate to the extent permitted by applicable law. Rights and remedies may vary by jurisdiction.
+
+8. Reservation of rights
+
+All rights not expressly granted in this license are reserved by the copyright holder.
